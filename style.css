@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header {
+header,section {
   text-align: center;
 }
 
