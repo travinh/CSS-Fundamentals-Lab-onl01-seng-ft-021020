@@ -19,5 +19,6 @@ header,figure{
   text-align: center;
   background-color: red;
   width: 25%;
+  float: left;
 }
 
