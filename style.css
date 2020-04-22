@@ -16,6 +16,7 @@ header,figure{
 }
 
 #details {
+  display: block;
   text-align: center;
   background-color: red;
   width: 25%;
