@@ -20,7 +20,7 @@ nav a {
   margin-right: auto;
 }
 
-#details {
+#details div{
   display: block;
   text-align: center;
   background-color: red;
